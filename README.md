@@ -225,24 +225,8 @@ Gerado via "Engenharia Reversa" do banco de dados MySQL, este diagrama mostra a 
 <div align="center">
   <p>Este projeto foi desenvolvido por:</p>
   
-  <table align="center">
-    <tr>
-      <td align="center">
-        <a href="https://github.com/AquilesMorato">
-          <img src=".github/assets/aquiles_morato.jpg" width="150px;" alt="Foto do Aquiles Augusto"/>
-          <br />
-          <sub><b>Aquiles Augusto</b></sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Lucamorato2006">
-          <img src=".github/assets/luca_morato.jpg" width="150px;" alt="Foto do Luca Morato"/>
-          <br />
-          <sub><b>Luca Morato</b></sub>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/AquilesMorato" style="margin-right: 20px;">Aquiles Augusto</a> • 
+  <a href="https://github.com/Lucamorato2006">Luca Morato</a>
 </div>
 
 ---
@@ -256,6 +240,7 @@ Os principais desafios (prazos curtos, equipe reduzida) foram superados com **fl
 
 ## 📚 Referências
 
+- [Laravel](https://laravel.com/) - The PHP Framework for Web Artisans
 - Matteson, Steve. *Open Sans Font*. [Google Fonts](https://fonts.google.com/specimen/Open+Sans)  
 - [Balsamiq](https://balsamiq.com)  
 - [GitHub](https://github.com)  
